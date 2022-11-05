@@ -33,6 +33,7 @@ Heat-map for correlations
 ![image](https://user-images.githubusercontent.com/105768533/200132228-47fb9fb8-363c-4c2e-b0c3-55fcd73c2c9d.png)
 
 Applicant-income & Loan Amount
+
 ![Unknown](https://user-images.githubusercontent.com/105768533/200132427-6167966b-4bf7-470b-b376-269a7dfb7b6c.png)
 ## Process
 Follow my workflow to fo this project
