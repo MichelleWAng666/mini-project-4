@@ -15,19 +15,19 @@ Test the income affect the loan approval
 
 
 ## Process
+Follow my workflow to fo this project
+![WechatIMG1020](https://user-images.githubusercontent.com/105768533/200131674-fc960ff4-e9f6-4bb9-a23f-94a8994c9d72.jpeg)
 
-
-### (your step 1)
-### (your step 2)
 
 ## Results/Demo
-
-
+1, Get the accuracy model score on my logistic regression model, 0.8211382113821138
+![image](https://user-images.githubusercontent.com/105768533/200131692-2450f894-3214-4961-a6cb-afd26bdd81e1.png)
 ## Challanges 
-More time on the Features 
-More models 
-Didn’t connect to my AWS
+1， Didn’t connect to my AWS
 
 
 ## Future Goals
-(what would you do if you had more time? are there any potential issues/biases with your model/use case?)
+1，Get more data
+2, Use more suitable graph and plot
+3, Connect to my AWS and make predction 
+4, More models 
